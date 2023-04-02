@@ -672,3 +672,7 @@ nav {
 .copy_right i:hover{
     color: #fac031;
 }
+@media only screen and (max-width: 600px) {
+    * {
+        overflow-x: hidden;
+    }
